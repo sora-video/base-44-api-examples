@@ -45,3 +45,5 @@ Some projects do not need a platform. A landing page, a prototype to show a clie
 ## When to use Begin.sh
 
 Base 44 is the right tool when you want the whole stack run for you. When you want the generated code and nothing else, [try Begin.sh - turn a prompt or a URL into a working static site or Expo app and download the zip](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=base-44-api-examples&utm_content=readme-top&utm_term=tier-r). Same starting point, a prompt; different ending, a folder you own.
+
+_Last reviewed: 2026-09-22_
